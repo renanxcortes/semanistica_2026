@@ -1,0 +1,109 @@
+DISCURSO DE ABERTURA — DIA 2 — SEMANÍSTICA 2026
+"Segurança Pública: A Ciência do Risco"
+Duração estimada: 20 minutos
+Renan Xavier Cortes
+
+
+[SLIDE 1 — Segurança Pública: A Ciência do Risco]
+
+Bom dia a todos.
+
+Há trinta anos, pesquisas de opinião registram as maiores preocupações dos eleitores brasileiros. Ontem falamos sobre Saúde, e hoje, no segundo dia da Seminística, entramos no segundo pilar que define a qualidade de vida do nosso país: a Segurança Pública.
+
+Antes de decidir onde e como intervir, é indispensável responder onde os crimes acontecem, quando ocorrem, como se concentram no território e de que forma esses padrões se transformam ao longo do tempo. É exatamente nesse ponto que a Estatística deixa de ser uma mera ferramenta descritiva e passa a ser a espinha dorsal da política de proteção à vida.
+
+
+[SLIDE 2 — A Segurança Muda de Escala: do Pico de 2017 à Queda]
+
+No Rio Grande do Sul, essa transformação começou a ser construída através dos próprios dados. A partir de 2002, a Secretaria da Segurança Pública consolidou uma série histórica contínua de indicadores criminais, hoje integrando e monitorando os 497 municípios gaúchos.
+
+Essa memória estatística nos permite enxergar a gravidade das crises e a força da tomada de decisão orientada por evidências. Em 2017, o Rio Grande do Sul viveu o ápice de sua crise de segurança, atingindo a marca de 2.990 vítimas de homicídio doloso. A partir dali, o número recuou: 2.368 em 2018, 1.561 em 2021 — uma redução de 47,8% em relação ao pico histórico. Em 2024, o estado registrou 1.474 vítimas, taxa de 13,1 por 100 mil habitantes, segundo o Anuário Brasileiro de Segurança Pública.
+
+Mas o papel da modelagem estatística não é apenas aplaudir a queda de um gráfico. O rigor analítico nos força a investigar: em que momento exato a inflexão aconteceu? Quais cidades concentraram essa mudança? O que diferencia os territórios onde as políticas funcionaram daqueles onde a violência persiste?
+
+E essa cautela vale também em nível nacional. O Atlas da Violência 2026, do Ipea e do Fórum Brasileiro de Segurança Pública, mostra que o Brasil registrou oficialmente 42.590 homicídios em 2024, uma queda de 7,4% frente a 2023. Só que, no mesmo período, houve um salto de 23,8% nas chamadas "mortes violentas por causa indeterminada" — óbitos em que não se conseguiu apurar se houve ou não intenção criminosa. Usando uma metodologia de aprendizado de máquina desenvolvida por Cerqueira e Lins em 2024 para reclassificar essas mortes, o Atlas estima que o Brasil teve, na verdade, 49.673 homicídios em 2024 — o que reduz a queda real para apenas 0,4%, não 7,4%. É o mesmo princípio que vou aplicar aos meus próprios dados daqui a pouco: nunca aceitar um número bruto sem perguntar o que ele pode estar escondendo. E, no meio disso, uma boa notícia para o nosso estado: mesmo com essa correção, o Rio Grande do Sul segue com uma das menores taxas estimadas de homicídio do país, 15,9 por 100 mil habitantes em 2024.
+
+
+[SLIDE 3 — O Desafio Mudou: Georreferenciamento e Fluxo Contínuo]
+
+Hoje o desafio ficou mais complexo. Já acompanhamos fluxos e relatórios municipais atualizados quase em tempo real — não lidamos mais com retratos anuais do passado, mas com fluxos contínuos de informação. E não basta contar crimes; é preciso analisar sua dependência espacial. Quando inserimos georreferenciamento e econometria espacial, tabelas frias de ocorrências ganham vida: identificamos manchas criminais, clusters de vulnerabilidade e deslocamentos de rotas que seriam invisíveis olhando apenas médias gerais. Uma decisão de segurança sem inteligência geográfica é um recurso público desperdiçado; com dados precisos, é prevenção.
+
+
+[SLIDE 4 — Da Universidade para a Pesquisa]
+
+E é exatamente nesse ponto que a minha trajetória se conecta com o que acabei de apresentar a vocês. Não venho aqui apenas como professor deste departamento: dediquei quatro anos do meu doutorado em Economia, com ênfase em Economia do Crime, a tentar responder, com rigor estatístico, algumas dessas perguntas para o nosso próprio estado. Minha tese, "Ensaios em Criminalidade no Rio Grande do Sul", tratou de índices bayesianos de criminalidade, do efeito da luz sobre os homicídios, de ferramentas de visualização de dados e da dinâmica espaço-temporal do crime gaúcho.
+
+Quero usar os próximos minutos para compartilhar com vocês cinco achados — meus e de outros pesquisadores, brasileiros e internacionais — que considero um bom motivador para quem está começando a pensar em pesquisa, dados e política pública nesta universidade.
+
+
+[SLIDE 5 — Armas e Criminalidade]
+
+O primeiro tema é armas de fogo. Na minha tese, ao estudar a dinâmica temporal dos "Delitos Relacionados a Armas e Munições" no RS entre 2002 e 2016 através de cadeias de Markov, encontrei uma quebra estrutural nítida entre 2003 e 2004: a probabilidade de um município passar do estado "sem ocorrência" para "com ocorrência" desse tipo de delito saltou de cerca de 0,18 para 0,84 de um ano para o outro. A causa é identificável: o Estatuto do Desarmamento entrou em vigor em dezembro de 2003, endurecendo as regras de registro, posse e comércio de armas — e a estatística registrou o choque regulatório quase que instantaneamente.
+
+Esse achado dialoga diretamente com a obra de Daniel Cerqueira, hoje um dos principais economistas do crime do país e coordenador do Atlas da Violência do Ipea. Em "Menos Armas, Menos Crimes", texto para discussão do Ipea escrito com João Manuel Pinho de Mello, Cerqueira mostrou, com dados nacionais, que a redução na circulação de armas de fogo esteve associada a uma queda nos homicídios no período pós-Estatuto — contrapondo diretamente a hipótese de que mais armas em circulação inibiriam o crime por elevar o custo esperado para o agressor.
+
+E essa relação continua extremamente atual. Depois do Estatuto de 2003, o Brasil viveu, a partir de 2019, um movimento inverso: uma sequência de decretos federais flexibilizou o porte e a posse de armas de fogo por civis. O próprio Atlas da Violência de 2024 volta a apontar que, quanto maior a circulação e a prevalência de armas de fogo, maior tende a ser a taxa de homicídios — mesmo com o Brasil registrando em 2023 a menor taxa de homicídios da série histórica, 21,2 por 100 mil habitantes. Ou seja: da quebra estrutural que encontrei na minha tese para 2003-2004 até o debate público mais recente sobre os decretos de armas, os dados continuam apontando na mesma direção, e esse é um ótimo exemplo de como uma política pública pode ser lida diretamente nos dados administrativos, quase como um experimento natural.
+
+
+[SLIDE 6 — Armas e Criminalidade: a Controvérsia e o Problema de Medir]
+
+Mas seria ingênuo apresentar esse tema como um consenso acadêmico fechado. Existe também uma robusta linha de pesquisa na direção oposta, encabeçada por John Lott e David Mustard, que em 1997 publicaram um estudo influente mostrando que leis americanas de porte de arma oculta — as chamadas "right-to-carry" — estariam associadas a uma redução de crimes violentos, sob a lógica de que um criminoso racional se retrai diante do risco de encontrar uma vítima armada. O trabalho, popularizado no livro "More Guns, Less Crime", gerou um debate acadêmico intenso: pesquisadores como Ayres e Donohue, e depois um relatório do National Research Council de 2004, reexaminaram os mesmos dados com especificações mais robustas e não encontraram evidência estatística confiável do efeito. Ou seja, o sinal da relação entre armas e crime ainda divide a literatura — e não por falta de dados, mas por decisões de modelagem.
+
+Isso nos leva a um problema anterior e, para mim, ainda mais interessante do ponto de vista metodológico: como medir, afinal, "quantas armas" circulam em uma região, quando a grande maioria dos países — os Estados Unidos incluídos — não possui um registro nacional confiável de posse de armas? A literatura precisou ser criativa. Mark Duggan, em um artigo de 2001 na Journal of Political Economy, usou como proxy a taxa de assinaturas da revista Guns & Ammo por estado e condado americano — e encontrou exatamente o oposto de Lott: mais armas, mais homicídios, com o efeito concentrado nos homicídios cometidos com arma de fogo. Já Azrael, Cook e Ludwig, em 2004, mostraram que a proxy mais confiável de todas é a fração de suicídios cometidos com arma de fogo em relação ao total de suicídios de uma região — uma medida indireta, mas com correlação de 0,81 a 0,90 com pesquisas domiciliares diretas sobre posse de armas. É um belo exemplo de como, na ausência do dado ideal, um bom pesquisador constrói uma proxy defensável — e de como essa escolha metodológica pode mudar o sinal do resultado.
+
+Vale um adendo importante antes de seguirmos: a criminalidade é um fenômeno multicausal, e isolar estatisticamente o efeito puramente causal das armas — separando-o de fatores concorrentes como desigualdade, tráfico de drogas ou estagnação econômica — é extremamente difícil. É, aliás, um tema que o próprio Daniel Cerqueira aprofunda em sua tese de doutorado, "Causas e Consequências do Crime no Brasil", defendida na PUC-Rio e premiada pelo BNDES, na qual ele mostra que a dinâmica dos homicídios brasileiros desde os anos 1980 só se explica pela combinação de sete fatores diferentes, não por um único vilão. É um lembrete valioso: toda vez que virem uma manchete atribuindo a violência a uma causa só, desconfiem.
+
+
+[SLIDE 7 — Armas de Fogo: o Retrato de 2026]
+
+E para fechar esse primeiro tema com o dado mais atual possível: o Atlas da Violência 2026, lançado neste ano, mostra que 70,1% dos homicídios brasileiros em 2024 foram cometidos com arma de fogo — o menor percentual da década, mas ainda a esmagadora maioria dos casos. E aqui uma curiosidade que interessa diretamente a este público: o Rio Grande do Sul é um dos únicos dois estados fora do Nordeste — ao lado do Amapá — entre os dez estados com maior participação de armas de fogo nos homicídios, com 71,8% em 2024. Não é um problema só do Norte e do Nordeste do país; é também nosso.
+
+O mesmo relatório traz dois achados adicionais que atualizam tudo o que expliquei até aqui. Primeiro, um estudo de Langeani e Pollachi, publicado em 2025 no Journal of Illicit Economies and Development, mostra que a participação de armas de estilo militar nas apreensões brasileiras mais que dobrou entre 2019 e 2023 — de 1,7% para 2,4% no país, chegando a 4,3% no Sudeste — um sinal direto de que a flexibilização regulatória desse período elevou o desvio de armas legais para o mercado ilegal. Segundo, um levantamento do próprio Atlas 2026 na produção legislativa da Câmara dos Deputados em 2025 identificou 53 projetos de lei de caráter expansivo — de isenção de imposto para compra de arma a uso do FGTS para financiar a primeira arma. Ou seja: o debate que abri com Lott e Duggan não é só uma disputa acadêmica do passado. Ele está acontecendo, com números concretos, no Congresso Nacional, agora.
+
+
+[SLIDE 8 — Análise Geoespacial e Espaço-Temporal]
+
+O segundo tema é o coração metodológico da minha tese: como tratar estatisticamente o espaço. Usei a abordagem bayesiana Integrated Nested Laplace Approximation, o INLA, para construir um índice de criminalidade municipal que suaviza a alta variância de municípios pequenos — sem essa suavização, um único crime atípico em uma cidade de dois mil habitantes pode gerar uma taxa por 100 mil habitantes completamente distorcida, como aconteceu no caso de Nova Marilândia, no Mato Grosso, que em determinado ano chegou a ter uma taxa de homicídio três vezes maior que a do país mais violento do mundo, sustentada por apenas cinco casos. Combinei essa suavização bayesiana com o Índice de Moran, que mede a autocorrelação espacial, e encontrei valores estatisticamente significativos para a maioria dos crimes: a criminalidade no Rio Grande do Sul não se distribui aleatoriamente no espaço, ela forma clusters, com municípios vizinhos se parecendo mais entre si do que municípios distantes. Foi a partir disso que construí o CrimeVis, uma ferramenta pública de visualização interativa que qualquer um de vocês pode acessar para explorar essa dinâmica espacial e temporal do RS.
+
+Esse tipo de abordagem está em plena efervescência na literatura internacional. Nos últimos dois anos, uma nova geração de modelos vem tratando a previsão espaço-temporal de crimes como um problema de aprendizado profundo: redes neurais em grafos, arquiteturas do tipo transformer e modelos híbridos que combinam redes convolucionais e redes recorrentes já são usados para prever, com defasagem de dias, em quais regiões de uma cidade a criminalidade tende a se concentrar — inclusive capturando a correlação entre diferentes tipos de crime simultaneamente e lidando com dados esparsos, o mesmo problema de municípios pequenos que motivou a abordagem bayesiana da minha tese. O princípio, porém, é exatamente o mesmo que usei com cadeias de Markov espaço-temporais no meu último ensaio: o crime de hoje na sua vizinhança é um dos melhores preditores do crime de amanhã na sua rua. Onde antes tínhamos matrizes de vizinhança e o Índice de Moran, temos hoje grafos neurais — mas a pergunta de pesquisa é rigorosamente a mesma, e é uma ótima porta de entrada para quem, nesta plateia, gosta tanto de dados quanto de geografia.
+
+E um exemplo perfeito disso eu já citei sem perceber: a metodologia de aprendizado de máquina que Cerqueira e Lins desenvolveram em 2024 para estimar os homicídios ocultos que mencionei no início desta fala — a partir de padrões de vitimização como idade, sexo, estado civil, escolaridade, instrumento usado, local e data do óbito — hoje adotada oficialmente pelo Atlas da Violência para corrigir a subnotificação nos dados de saúde. É modelagem espaço-temporal de dados esparsos resolvendo, na prática, um problema real e urgente de política pública.
+
+
+[SLIDE 9 — Luz e Criminalidade]
+
+O terceiro tema é um dos meus favoritos, porque o resultado que encontrei contraria a intuição. Testei se o horário de verão — que altera abruptamente a quantidade de luz solar no fim da tarde — provoca uma descontinuidade nas taxas de homicídio do Rio Grande do Sul, usando Regressão Descontínua em torno da data exata da mudança de horário. O resultado, robusto a diversas especificações: no RS, o horário de verão não tem efeito estatisticamente significativo sobre os homicídios.
+
+Isso contrasta com o trabalho seminal de Doleac e Sanders, publicado em 2015 na Review of Economics and Statistics, que encontrou nos Estados Unidos uma queda de 7% em roubos e 11% em estupros logo após o início do horário de verão — sem efeito equivalente sobre homicídio e agressão grave, curiosamente. O resultado embasou inclusive estimativas de economia social de dezenas de milhões de dólares por ano evitados em roubos. Por que, então, resultados tão diferentes dos meus para o RS? Uma pista está nos meus próprios dados descritivos: quando olho a distribuição dos homicídios por horário do dia, vejo picos nítidos entre as 19h e as 23h, e outro por volta da 1h da manhã, com um vale ao meio-dia — ou seja, existe sim um efeito real de escuridão sobre o crime violento no RS, e também um claro "efeito fim de semana", com mais homicídios aos sábados e domingos. O que meus resultados sugerem é que a transição abrupta do horário de verão é "rápida demais" para capturar um fenômeno que, na prática, é gradual ao longo do ano e depende de hábitos sociais, não apenas da posição do sol. É um ótimo exemplo de como um método pode confirmar uma teoria em um contexto e não a confirmar em outro — e por isso validade externa é uma palavra que todo pesquisador nesta plateia deveria levar a sério antes de generalizar um resultado de um país, ou de um estado, para outro.
+
+
+[SLIDE 10 — O Efeito Estigma de Ex-Presidiários]
+
+O quarto tema sai um pouco do escopo direto da minha tese, mas é essencial para qualquer discussão séria sobre segurança pública: o que acontece depois da prisão. O estudo mais citado da literatura internacional é o de Devah Pager, publicado em 2003 no American Journal of Sociology, num desenho experimental elegante: ela enviou candidatos com perfis idênticos de escolaridade e experiência, alguns com antecedentes criminais fictícios e outros sem, para vagas reais de emprego em Milwaukee. O resultado: candidatos com antecedentes receberam menos da metade dos retornos dos candidatos sem antecedentes — e, entre homens negros, ter antecedentes reduzia as chances a um patamar em que eles se saíam pior do que homens brancos recém-saídos da prisão. O antecedente criminal funciona, na prática, como um imposto sobre a empregabilidade.
+
+No Brasil, o Depen estimou, em levantamento de 2022, que a reincidência criminal chega a cerca de 21% já no primeiro ano após a soltura, e sobe para uma faixa entre 37,6% e 42,5% em um horizonte de cinco anos, dependendo do critério utilizado. O estigma do antecedente criminal — muitas vezes formalizado no próprio "atestado de bons antecedentes" exigido por empregadores — opera como uma barreira estrutural à reinserção. Do ponto de vista da economia do crime, isso é a teoria da escolha racional de Becker, a mesma que mencionei ao falar de horário de verão, operando ao contrário: quando o mercado de trabalho formal fecha a porta, o custo de oportunidade do crime despenca, e a reincidência deixa de ser surpresa estatística para se tornar consequência previsível. É por isso que políticas como qualificação profissional dentro do sistema prisional e programas de primeiro emprego para egressos não são só uma pauta de direitos humanos — são, também, política de segurança pública baseada em incentivos.
+
+
+[SLIDE 11 — Tempo de Carreira Criminal]
+
+O quinto e último tema é a duração da carreira criminal. A literatura clássica de criminologia descreve a chamada curva idade-crime: a atividade criminal cresce na adolescência, atinge um pico no início da vida adulta e depois declina — um padrão tão recorrente ao longo de décadas de dados que já foi chamado de quase universal. Mas pesquisas recentes, inclusive análises de dados de prisões nos Estados Unidos em 2024, mostram que esse pico está envelhecendo: hoje a idade de pico de detenções está próxima dos 32 anos, mais alta do que os padrões históricos, e o maior potencial de efeito incapacitador de políticas públicas — ou seja, o intervalo de idade em que manter alguém fora do circuito criminal mais reduz crimes futuros — está hoje entre os 30 e os 40 anos, não mais no pico tradicional e mais jovem da curva.
+
+No Brasil, essa agenda também tem produção própria: há trabalhos acadêmicos recentes dedicados especificamente à modelagem da duração da carreira criminosa e ao papel da dissuasão e das armas nesse processo, na mesma linha de política pública que venho discutindo desde o início desta fala. Entender por quanto tempo, em média, uma pessoa permanece ativa na criminalidade é decisivo para desenhar políticas de prevenção com bom custo-benefício: onde investir cedo, na adolescência, para evitar o ingresso; e onde investir na reinserção adulta, para acelerar a saída. E aqui os cinco temas se fecham em círculo: menos armas em circulação reduz a letalidade da carreira criminal enquanto ela dura; entender o espaço nos diz onde intervir; entender a luz e os horários nos diz quando reforçar a presença do Estado; e reduzir o estigma do antecedente encurta a carreira criminal, tirando pessoas do circuito mais cedo.
+
+
+[SLIDE 12 — Da Pesquisa à Prática]
+
+Cinco temas, uma mensagem só: segurança pública deixou de ser terreno de opinião e passou a ser terreno de evidência. Armas, espaço, luz, estigma, tempo de carreira — cada um desses fenômenos tem uma assinatura estatística que pode ser medida, testada e usada para decidir melhor. E, como vimos com o horário de verão, nem sempre a intuição bate com o dado — e é exatamente aí que a pesquisa se torna indispensável.
+
+Para os alunos aqui presentes: essa é uma área de pesquisa viva, com dados públicos disponíveis — muitos deles gratuitos, como a série histórica da SSP-RS ou o próprio CrimeVis —, perguntas em aberto e impacto real na vida das pessoas. Não é preciso esperar o doutorado para começar: um projeto de iniciação científica, um trabalho de conclusão de curso, um simples exercício de análise de dados públicos já pode gerar conhecimento relevante para o estado. Se você gosta de dados, estatística, geografia ou economia, a segurança pública tem lugar para você.
+
+E é para mostrar como esse conhecimento sai da universidade e chega à linha de frente da gestão que vou passar a palavra agora a Henrique Joner e sua equipe, que vão apresentar o uso prático de inteligência de dados e georreferenciamento no combate ao crime no nosso estado.
+
+Muito obrigado.
+
+
+Estelionato digital em 2021?
+Trilogia digital do Dráuzio Varela
+Carandiru, Prisioneiras e Carcereiros
+
+Autocorrelação espacial

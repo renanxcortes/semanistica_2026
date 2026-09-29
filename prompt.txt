@@ -1,0 +1,14 @@
+Preciso que você me ajude a preparar um discurso de 20 minutos de abertura para um evento de segurança pública em uma universidade. Um draft inicial desse discurso já me foi dado e está presente no arquivo DIA 2 - DISCURSO ABERTURA.pdf.
+
+No entanto, eu gostaria de incrementar esse discurso fazendo uso do fato de eu ter feito doutorado em economia do crime e a minha tese se encontra em TESE_DE_DOUTORADO_RENAN_FINAL.pdf
+
+Além disso, gostaria de incrementar o discurso fazendo uso de artigos científicos importantes de economia do crime que eu acredito que será um bom motivador para os alunos. Alguns assuntos que eu gostaria de citar:
+- Relação de armas e criminalidade (podendo citar os trabalhos de Daniel Cerqueira)
+- Análise geoespacial e modelagem espaço temporal da criminalidade
+- Relação de luz e criminalidade (podendo citar o meu artigo da tese e o trabalhos de Doleac)
+- Relação do efeito estigma de ex-presidiários
+- Relação de tempo de carreira criminal
+
+No final, me gere um novo arquivo de texto com esse novo discurso mais completo que eu possa usar. Além disso, um esboço de apresentação em slides seria interessante também e quais passagens dos trabalhos eu posso citar, gráficos apresentar, etc.
+
+Você focar tanto na minha tese e nos artigos sugeridos por mim, quanto em trabalhos mais recentes de Economia do Crime recentemente publicados e relevantes.
